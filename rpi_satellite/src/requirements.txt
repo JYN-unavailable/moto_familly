@@ -1,0 +1,4 @@
+pymumble-py3==1.6
+requests==2.32.0
+pyaudio==0.2.14
+dbus-python==1.3.2
